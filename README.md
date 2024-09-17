@@ -4,7 +4,7 @@
 ```
 1. git init - Inicializa um ambiente com Git
 2. git config --global user.name "<nome>" - Identifica o usuário realizando modificações
-3. git config --global user.email "<email>" - Identifica o email do usuário local 
+3. git config --global user.email "<email>" - Identifica o email do mesmo usuário
 4. git add <diretorio> - Guarda as modificações realizadas nos arquivos para o proximo *commit*
 5. git commit -m "<nome>" - Salva o projeto em um ponto específico, atribuindo diferentes versões
 ```
