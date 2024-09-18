@@ -19,9 +19,9 @@
 
 # Atividade 04
 
-1. Para inicializar o GIT em um novo repositório: ``git add``
-2. Para adicionar as alterações realizadas no repositório: 
-3. Para gravas as alterações: 
-4. Para enviar as alterações para a nuvem/repositório online:
-5. Se o repositório em meu computador estiver desatualizado, como faço para atualizá-lo? 
-Lembrando que, estarei atualizando com base no repositório salvo no GitHub.
+1. Para inicializar o GIT em um novo repositório: ``git init``
+2. Para adicionar as alterações realizadas no repositório: ``git add``
+3. Para gravas as alterações: ``git commit``
+4. Para enviar as alterações para a nuvem/repositório online: ``git push``
+5. Se o repositório em meu computador estiver desatualizado, como faço para atualizá-lo?
+``git pull`` Lembrando que, estarei atualizando com base no repositório salvo no GitHub.
