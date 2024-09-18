@@ -1,6 +1,6 @@
-## Atividades Projeto Interface Web
+# Atividades Projeto Interface Web
 
-# Atividade 01
+## Atividade 01
 **Comandos Básicos do Git**
 1. ``git init`` - Inicializa um ambiente com Git
 2. ``git config`` --global user.name "<nome>"`` - Identifica o usuário realizando modificações
@@ -13,7 +13,7 @@
 2. ``git push origin <branch>`` - Transfere os arquivos do armazenamento local para o remoto (GitHub)
 3. ``git pull origin <branch>`` - Transfere os arquivos do armazenamento remoto para o local (Máquina)
 
-# Atividade 04
+## Atividade 04
 
 1. Para inicializar o GIT em um novo repositório: ``git init``
 2. Para adicionar as alterações realizadas no repositório: ``git add``
