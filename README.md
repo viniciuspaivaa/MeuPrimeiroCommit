@@ -1,5 +1,6 @@
-# Atividade 01 - Projeto de Inteface Web
+## Atividades Projeto Interface Web
 
+# Atividade 01
 **Comandos Básicos do Git**
 ```
 1. git init - Inicializa um ambiente com Git
@@ -15,3 +16,12 @@
 2. git push origin <branch> - Transfere os arquivos do armazenamento local para o remoto (GitHub)
 3. git pull origin <branch> - Transfere os arquivos do armazenamento remoto para o local (Máquina)
 ```
+
+# Atividade 04
+
+1. Para inicializar o GIT em um novo repositório: ``git add``
+2. Para adicionar as alterações realizadas no repositório: 
+3. Para gravas as alterações: 
+4. Para enviar as alterações para a nuvem/repositório online:
+5. Se o repositório em meu computador estiver desatualizado, como faço para atualizá-lo? 
+Lembrando que, estarei atualizando com base no repositório salvo no GitHub.
